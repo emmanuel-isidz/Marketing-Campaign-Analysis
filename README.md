@@ -53,6 +53,7 @@ purchases.csv-purchase_id, customer_id, campaign_id, date, amount_usd
 All datasets are synthetic but modeled to reflect realistic marketing data for B2C sales.
 
 🔍 Key Analyses Performed
+
 📌 1. Exploratory Data Analysis (EDA)
 Checked campaign reach, purchase trends, demographics
 Created a clean and queryable data model in MySQL
